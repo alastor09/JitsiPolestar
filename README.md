@@ -1,5 +1,7 @@
 # JitsiPolestar
 
+Jitsi [Link](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-android-sdk)
+
 
 When i add Jitsi and Polestar together in android project, it starts causing issues during build time.
 ```
